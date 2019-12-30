@@ -1,11 +1,10 @@
 ---
 layout: single
 title: Julia's Summer of Code projects
-url: /soc/ideas-page/archive
 ---
 # Summer of Code Archives
 
-Julia has greatly benefited from the Google Summer of Code. In the last 5 years, over 50 students have contributed to Julia and various Julia packages. Many of these students have become regular Julia contributors well beyond their summer projects. Take a look at the [Ideas Page](/soc/ideas-page) and contribute your ideas.
+Julia has greatly benefited from the Google Summer of Code. In the last 5 years, over 50 students have contributed to Julia and various Julia packages. Many of these students have become regular Julia contributors well beyond their summer projects. Take a look at the [Ideas Page](/jsoc) and contribute your ideas.
 
 ## GSoC 2018
 

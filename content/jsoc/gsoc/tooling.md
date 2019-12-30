@@ -3,7 +3,7 @@ layout: single
 title:  Tooling Projects – Summer of Code
 ---
 
-# {{ page.title }}
+# {{< get_param title >}}
 
 ## IDE Tooling
 

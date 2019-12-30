@@ -3,7 +3,7 @@ layout: single
 title:  General Projects – Summer of Code
 ---
 
-# {{ page.title }}
+# {{< get_param title >}}
 
 ## Improving test coverage
 

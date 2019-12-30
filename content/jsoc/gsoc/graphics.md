@@ -3,7 +3,7 @@ layout: single
 title:  Graphic Projects – Summer of Code
 ---
 
-# {{ page.title }}
+# {{< get_param title >}}
 
 ## Makie
 

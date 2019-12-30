@@ -3,7 +3,7 @@ layout: single
 title:  Tabular Data – Summer of Code
 ---
 
-# {{ page.title }}
+# {{< get_param title >}}
 
 ## Parquet.jl enhancements and JuliaDB
 

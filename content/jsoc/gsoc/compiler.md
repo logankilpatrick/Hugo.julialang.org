@@ -3,7 +3,7 @@ layout: single
 title:  Compiler Projects – Summer of Code
 ---
 
-# {{page.title}}
+# {{< get_param title >}}
 
 ## Thread-safety
 

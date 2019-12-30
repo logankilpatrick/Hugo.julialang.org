@@ -3,7 +3,7 @@ layout: single
 title:  Scientific Projects – Summer of Code
 ---
 
-# {{ page.title }}
+# {{< get_param title >}}
 
 ## Quantum Computation: Simualation of Noisy Circuits
 
