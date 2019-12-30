@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  {{ partial "head.html" . }}
+</head>
+
+<body>
+  {{ partial "mainmenu.html" . }}
+
+  <br /><br/>
+
+  <div class = "container">
+  {{ .Content }}
+  </div>
+  <br /><br />
+  {{ partial "footermenu.html" . }}
+
+  {{ partial "footer.html" . }}
+
+  {{ partial "scripts.html" . }}
+
+</body>
+
+</html>

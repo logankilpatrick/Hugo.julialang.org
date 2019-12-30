@@ -1,0 +1,10 @@
+{{ define "head" }}
+  <head>
+    <meta charset="UTF-8">
+    {{ if isset .Params "target" }}
+    <meta http-equiv="refresh" content="0;url={{ .Params.target }}">
+    {{ else }}
+    <meta http-equiv="refresh" content="0;https://docs.julialang.org/en/v1{{ replace .RelPermalink "index.html" ""}}">
+    {{ end }}
+  </head>
+{{ end }}

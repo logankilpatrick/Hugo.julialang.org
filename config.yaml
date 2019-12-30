@@ -1,0 +1,4 @@
+baseURL: hugo.julialang.org
+markup:
+  highlight:
+    codeFences: false
